@@ -92,7 +92,7 @@ export default class App extends Component {
 
   render() {
     return (
-      <Router>
+      <Router basename="/Personal-Portfolio/">
         <div className="container-fluid">
           <div className="row">
             <div className="col-md-12 col-sm-12 col-xs-12" id="header">
